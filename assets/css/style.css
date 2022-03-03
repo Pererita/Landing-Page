@@ -340,6 +340,15 @@ hr {
   .common-btn {
     padding: 10px 16px;
   }
+
+  .icon__ul {
+    row-gap: .5rem;
+    margin-left: 25%;
+  }
+
+  .social__icon-left {
+    font-size: 1.25em;
+  }
   /* .social-icons img {
     width: 14px;
     margin: 15px auto;
