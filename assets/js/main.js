@@ -12,6 +12,6 @@ menuBtn.onclick = function () {
 
 /*SCROLL JS*/
 var scroll = new SmoothScroll('a[href*="#"]', {
-  speed: 500,
+  speed: 1000,
   speedAsDuration: true,
 });
