@@ -4,6 +4,6 @@ Esta es una plantilla editable para [Pergon Studio](https://andersongb1007.githu
 
 <p align="center">
   <a href="https://andersongb1007.github.io/PergonStudio">
-      <img src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
+      <img width="200" heigth="200" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
   </a>
 </p>
