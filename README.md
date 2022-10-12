@@ -3,5 +3,5 @@ Esta es una plantilla editable para [Pergon Studio](https://andersongb1007.githu
 
 
 <p align="center">
-  <img src="[https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20claro.jpg](https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png)">
+  <img src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
 </p>
